@@ -2,7 +2,7 @@
 
 ### Making Ethereum Fast
 
-#### [primev.xyz](https://primev.xyz)
+#### [mev-commit.xyz](https://mev-commit.xyz)
 
 <a href="https://primev.xyz"><img width="300px" alt="Primev" src="mevcommit.png" /></a>
 
@@ -11,8 +11,8 @@
 ## Quick Links
 
 - 📚 [Documentation](https://docs.primev.xyz)
-- 🌐 [Website](https://primev.xyz)
-- 🌉 [Bridge](https://mev-commit.xyz)
+- 🌐 [Primev Website](https://primev.xyz)
+- 🌉 [Bridge](https://mev-commit.xyz/bridge)
 - 🐦 [Twitter](https://twitter.com/primev_xyz)
 - ✍️ [Research](https://mirror.xyz/preconf.eth)
 
